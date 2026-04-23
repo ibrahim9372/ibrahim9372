@@ -1,4 +1,4 @@
-# (~_~) Muhammad Ibrahim | AI/ML Engineer
+#  Muhammad Ibrahim | AI/ML Engineer
 
 I am an **AI/ML Engineer** based in Islamabad, Pakistan.I am currently pursuing a **Bachelors in Artificial Intelligence** at **FAST University**, where I maintain a **3.33 CGPA** and have been recognized on the **Dean's List**. My work focuses on bridging the gap between cutting-edge research in neural architectures and scalable, automated production systems.
 
