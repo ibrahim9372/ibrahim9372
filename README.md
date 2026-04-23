@@ -1,6 +1,6 @@
 # Muhammad Ibrahim | AI/ML Engineer
 
-[cite_start]I am an **AI/ML Engineer** based in Islamabad, Pakistan[cite: 1, 2]. [cite_start]I am currently pursuing a **Bachelors in Artificial Intelligence** at **FAST University**, where I maintain a **3.33 CGPA** [cite: 38, 39] [cite_start]and have been recognized on the **Dean's List**[cite: 43]. My work focuses on bridging the gap between cutting-edge research in neural architectures and scalable, automated production systems.
+I am an **AI/ML Engineer** based in Islamabad, Pakistan.I am currently pursuing a **Bachelors in Artificial Intelligence** at **FAST University**, where I maintain a **3.33 CGPA** and have been recognized on the **Dean's List**. My work focuses on bridging the gap between cutting-edge research in neural architectures and scalable, automated production systems.
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, C++, SQL, JavaScript (Node.js), HTML/CSS, x86 Assembly [cite: 34] |
-| **AI/ML** | [cite_start]TensorFlow, Scikit-learn, LangChain, LangGraph, Ollama [cite: 20, 35] |
-| **Cloud/DevOps** | [cite_start]Microsoft Azure, IBM Cloud, Hetzner, GitHub Actions, Docker [cite: 8, 20, 34] |
-| [cite_start]**Automation** | n8n, Make.com, Vapi [cite: 36] |
-| **Data/Web** | [cite_start]FastAPI, Flask, Streamlit, Selenium, Pandas, NumPy [cite: 20, 24, 32] |
+| **Languages** |Python, C++, SQL, JavaScript (Node.js), HTML/CSS, x86 Assembly |
+| **AI/ML** | TensorFlow, Scikit-learn, LangChain, LangGraph, Ollama  |
+| **Cloud/DevOps** | Microsoft Azure, IBM Cloud, Hetzner, GitHub Actions, Docker |
+| **Automation** | n8n, Make.com, Vapi |
+| **Data/Web** | FastAPI, Flask, Streamlit, Selenium, Pandas, NumPy |
 
 ---
 
 ### **🌟 Featured Projects**
 
-* [cite_start]**Local LLM Voice Assistant**: Developed a support chatbot using **Ollama** for on-device inference with integrated **Moonshine ASR** and **Kokoro TTS** for real-time voice interaction[cite: 15, 16, 20].
+* **Local LLM Voice Assistant**: Developed a support chatbot using **Ollama** for on-device inference with integrated **Moonshine ASR** and **Kokoro TTS** for real-time voice interaction[cite: 15, 16, 20].
 * [cite_start]**F1 Podium Prediction System**: Built a Random Forest classifier achieving **0.85 recall** and **0.71 precision** in forecasting F1 race outcomes[cite: 21, 22].
 * [cite_start]**Competitor Sentiment Analysis**: Created a tool that analyzed 3,000+ reviews using **LLMs**, achieving 80% accuracy in sentiment classification for restaurant market insights[cite: 25, 28, 31].
 
